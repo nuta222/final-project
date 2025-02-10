@@ -1,5 +1,4 @@
-# Main program
-If __name__ == “__main__”:
+
     Account = BankAccount()
 
     While True:
